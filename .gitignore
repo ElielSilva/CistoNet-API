@@ -7,3 +7,5 @@ __pycache__/
 
 # Arquivos de ambiente (variáveis secretas)
 .env
+
+uploads/
